@@ -111,4 +111,4 @@ This project is open source and available under the MIT License.
 
 ## Author
 
-Created by Rafay Ali
+Created by Rafay Ali Saleem
