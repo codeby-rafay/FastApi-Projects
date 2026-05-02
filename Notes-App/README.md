@@ -111,4 +111,6 @@ This project is open source and available under the MIT License.
 
 ## Author
 
-Created by Rafay Ali Saleem
+Created by Rafay Ali
+
+**Happy Coding!**
